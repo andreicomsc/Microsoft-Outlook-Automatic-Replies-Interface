@@ -11,5 +11,5 @@ This project enhanced my ability to apply user-centred design principles and pro
 ## View in browser [here](https://w3shc3.axshare.com).
 
 ## Local Installation
-1. Download and install the Axure RP software from "https://www.axure.com/".
+1. Download and install the Axure RP software from [https://www.axure.com](https://www.axure.com).
 2. Open the "MS Outlook AR Interface.rp" file with the installed tool.
