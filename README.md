@@ -6,7 +6,7 @@ The redesign focuses on delivering a more intuitive and client-friendly UI/UX, w
 
 Key features include the ability to set custom time periods, define regular weekly schedules, configure distinct settings for weekdays and weekends, and specify precise time ranges for automatic replies. 
 
-This project demonstrates my ability to apply user-centred design principles and prototyping tools to improve the usability and flexibility of existing software solutions.
+This project enhanced my ability to apply user-centred design principles and prototyping tools to improve the usability and flexibility of existing software solutions.
 
 ## View in browser [here](https://w3shc3.axshare.com).
 
