@@ -8,8 +8,7 @@ Key features include the ability to set custom time periods, define regular week
 
 This project demonstrates my ability to apply user-centred design principles and prototyping tools to improve the usability and flexibility of existing software solutions.
 
-## View in browser
-The proposed Interface can be viewed [here](https://w3shc3.axshare.com).
+## View in browser [here](https://w3shc3.axshare.com).
 
 ## Local Installation
 1. Download and install the Axure RP software from "https://www.axure.com/".
